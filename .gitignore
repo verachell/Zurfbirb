@@ -1,0 +1,10 @@
+# ignore temp files
+*~
+
+# ignore README - prefer to edit it separately
+README.md
+
+# ignore files prefaced with OLD_
+OLD_*
+
+
