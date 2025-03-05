@@ -1,8 +1,6 @@
 # Zurfbirb
-
-<p style="text-align:center">
-<img src="zb_main_logo_125.jpg">
-</p>
+  
+  ![zurfbirb logo](zb_main_logo_125.jpg)
 
 
 ## A simple and fun CGI library for Ruby
@@ -106,5 +104,5 @@ I will be happy to deal with any questions, problems or issues. Please note that
 The more issues that can be solved, the better this software will become. So don't hesitate to raise an issue.
 
 ## License & development info
-Zurfbirb is licensed under the GNU GPL 3.0 license. This software was originally developed and tested by Veronique Chellgren using Ruby 3.3.0 on a Raspberry Pi (arm64 chipset) running Debian 12 with Apache 2.4 installed. This software was also tested on remote Linux VPS servers (x64 chipset) at DigitalOcean (U.S.) and Clouding.io (E.U.) on Ubuntu 24.04 and Debian 12 operating systems.
+Zurfbirb is licensed under the MIT license. This software was originally developed and tested by Veronique Chellgren using Ruby 3.3.0 on a Raspberry Pi (arm64 chipset) running Debian 12 with Apache 2.4 installed. This software was also tested on remote Linux VPS servers (x64 chipset) at DigitalOcean (U.S.) and Clouding.io (E.U.) on Ubuntu 24.04 and Debian 12 operating systems.
 
