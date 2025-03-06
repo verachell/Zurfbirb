@@ -80,7 +80,9 @@ General installation info is below with links to detailed installation tutorial 
 "Zurfbirb" is a play off the phrase "Surfing Bird", a humorous song which I enjoy. The final letters are "rb" for the programming language Ruby.
 
 ## What operating systems can you use Zurfbirb on?
-In principle you can install it on anything that has the requirements above installed, regardless of chipset. **Instructions are given in the Wiki for local deployment at TODO.** While it has been tested on Raspberry Pi and Linux machines, it has not yet been tested locally on Apple or Windows.
+In principle you can install it on anything that has the requirements above installed, regardless of chipset. Instructions are given in the Wiki for local or remote deployment at https://github.com/verachell/Zurfbirb/wiki 
+
+Zurbirb has been tested on remote Linux hosting with Ubuntu and Debian. While it has been tested locally on Raspberry Pi and Linux machines, it has not yet been tested locally on Apple or Windows. 
 
 **Zurfbirb is best suited to the Linux ecosystem for ease of placing it in a production environment**. There is a detailed step by step quickstart tutorial for deploying it on a cheap remote server at TODO. There is no need to pay for an ongoing long-term VPS just to try out Zurfbirb: these instructions have been tested many times using VPS at hourly computing providers DigitalOcean (US) and Clouding.io (EU) for just a few cents at a time. Alternatively, a reputable free VPS hosting provider could be ideal a quick tryout (but not all free providers are reputable - do your own research and choose one that does not require credit card information).
 
@@ -92,9 +94,7 @@ Zurfbirb is not as well suited to Windows because of the difficulty of installin
 
 **DISCLAIMER:** Zurfbirb is just "for fun" and is not a mature web library. Do not use with any sensitive information or on any computer or system you wish to keep secure. **Use at own risk!** I have made a good faith effort to implement sensible protections, but as with any new system it is likely to have security holes.
 
-Local installation instructions are in the Wiki here: TODO
-
-Remote server installation instructions for a Linux server are in the Wiki here: TODO
+Instructions are given in the Wiki for remote or local deployment at https://github.com/verachell/Zurfbirb/wiki - this includes a tutorial for making an example website.
 
 ## Questions or problems?
 If you are encountering any roadblocks - whether with installation or with usage, raise an issue on this repository! 
