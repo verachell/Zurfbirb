@@ -84,7 +84,7 @@ In principle you can install it on anything that has the requirements above inst
 
 Zurbirb has been tested on remote Linux hosting with Ubuntu and Debian. While it has been tested locally on Raspberry Pi and Linux machines, it has not yet been tested locally on Apple or Windows. 
 
-**Zurfbirb is best suited to the Linux ecosystem for ease of placing it in a production environment**. There is a detailed step by step quickstart tutorial for deploying it on a cheap remote server at TODO. There is no need to pay for an ongoing long-term VPS just to try out Zurfbirb: these instructions have been tested many times using VPS at hourly computing providers DigitalOcean (US) and Clouding.io (EU) for just a few cents at a time. Alternatively, a reputable free VPS hosting provider could be ideal a quick tryout (but not all free providers are reputable - do your own research and choose one that does not require credit card information).
+**Zurfbirb is best suited to the Linux ecosystem for ease of placing it in a production environment**. There is a detailed step by step quickstart tutorial for deploying it on a cheap remote server in the Wiki. There is no need to pay for an ongoing long-term VPS just to try out Zurfbirb: these instructions have been tested many times using VPS at hourly computing providers DigitalOcean (US) and Clouding.io (EU) for just a few cents at a time. Alternatively, a reputable free VPS hosting provider could be ideal a quick tryout (but not all free providers are reputable - do your own research and choose one that does not require credit card information).
 
 Zurfbirb was originally developed locally on a Raspberry Pi running Debian. It has been tested on remote Linux servers running a) Ubuntu 24.04 and b) Debian 12.
 
