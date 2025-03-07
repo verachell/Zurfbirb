@@ -48,7 +48,7 @@ RewriteRule [^\+\&=\#/\?A-Za-z0-9\-_\.] - [L,R=400]
 # Return error doc for requests that start with wp- or end with .sh, zipped extensions
 # or database extensions (usually malicious). Also remove .gitignore files
 RewriteRule ^wp- - [L,R=404]
-RewriteRule \.(sh|db|sql|gz|zip|tar)$ - [L,R=404]
+RewriteRule \.(sh|db|sql|gz|zip|tar|md)$ - [L,R=404]
 RewriteRule ^.gitignore - [L,R=404]
 RewriteRule ^(.htaccess|OLD_htaccess) - [L,R=404]
 
