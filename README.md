@@ -66,14 +66,14 @@ then when you want to display it anywhere, just do:
 ### Requirements
 Relatively few dependencies. These are needed regardless of whether installing locally or on a remote server:
 
-- Apache v 2.x
+- Apache v 2.4
 - Ruby v 3.x
 - sqlite3
 - These Ruby gems: sanitize, sqlite3, sequel, date
 
 Is that really it? Yes. That is all you need. 
 
-General installation info is below with links to detailed installation tutorial showing how to create an example website (a color generator that accepts comments and has the ability to favorite and unfavorite colors)
+General installation info is below with links to detailed installation tutorial showing how to create an example website: a color generator that accepts comments and has the ability to favorite and unfavorite colors and can inform the user how they navigated the site.
 
 ## Why is it called Zurfbirb?
 
