@@ -69,7 +69,7 @@ Relatively few dependencies. These are needed regardless of whether installing l
 - Apache v 2.4
 - Ruby v 3.x
 - sqlite3
-- These Ruby gems: sanitize, sqlite3, sequel, date
+- These Ruby gems: sanitize, sqlite3, sequel
 
 Is that really it? Yes. That is all you need. 
 
