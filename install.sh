@@ -55,8 +55,8 @@ rm assets/images/.gitignore
 rm assets/styles/.gitignore
 
 # remove .git and .gitigore
-rm -R .git
-rm .gitignore
+rm -Rf .git
+rm -f .gitignore
 
 # move files out of the zurfbirb folder, first backing up the old .htaccess
 mv ../.htaccess ../OLD_htaccess
