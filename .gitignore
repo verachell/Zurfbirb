@@ -7,4 +7,5 @@ README.md
 # ignore files prefaced with OLD_
 OLD_*
 
-
+# ignore .git directory
+.git
